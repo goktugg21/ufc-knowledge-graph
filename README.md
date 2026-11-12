@@ -98,6 +98,15 @@ LIMIT 50
 
 ---
 
+## Team
+
+Team project for **Knowledge and Data**, Vrije Universiteit Amsterdam (Fall 2025).
+Team: Barış Kaban, Göktuğ Yıldırım, Danila Popuşoi.
+
+**My contributions:** According to the contributions section of the report, Göktuğ Yıldırım and Danila Popuşoi prepared the project pitch, refined the competency questions, and contributed to the report's conceptual and presentation aspects. All members collaborated on defining the UFC domain, reviewing ontology consistency, and ensuring the report met academic requirements.
+
+A copy is also published by teammate Barış Kaban at [github.com/bariskaban/KnowledgeGraph-Analysis](https://github.com/bariskaban/KnowledgeGraph-Analysis).
+
 ## 9) License
 Built for the **Vrije Universiteit Amsterdam – Knowledge and Data** course (Fall 2025).  
 This project is licensed under the MIT License. For academic/educational use only.
